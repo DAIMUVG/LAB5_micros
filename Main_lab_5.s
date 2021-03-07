@@ -7,7 +7,7 @@
 ; Hardware:	        LEDs en el puerto A, Display en el puerto C y botones en el puerto B
 ;                       
 ; Creado:                3 mar, 2021
-; Última modificación:   3 mar, 2021
+; Última modificación:   6 mar, 2021
 
 ;---------------------------------------------------------------------------------------------
 PROCESSOR 16F887
